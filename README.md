@@ -94,9 +94,6 @@ Welcome to your ultimate collection of quotes for data analysts, data scientists
 
 "Analytics is the compass, not the map."
 
-📢 Contribute!
-Have a favorite quote? Found a phrase that gets your team laughing? Open a PR or an issue and help us grow this collection!
-
 Stay curious, keep analyzing, and remember: there’s a story behind every number.
 
 “Data is a tool for enhancing intuition.”
